@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+betterShinden/__init__.py
+betterShinden/shinden.py
+betterShinden.egg-info/PKG-INFO
+betterShinden.egg-info/SOURCES.txt
+betterShinden.egg-info/dependency_links.txt
+betterShinden.egg-info/requires.txt
+betterShinden.egg-info/top_level.txt

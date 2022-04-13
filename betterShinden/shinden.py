@@ -1,4 +1,3 @@
-from unittest import result
 from aiohttp import ClientSession, TCPConnector, FormData
 from asyncio import run, sleep, gather
 from random  import randint
